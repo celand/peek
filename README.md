@@ -18,5 +18,5 @@ Missing color lists:
 1. Upload a new image or take a *picture (only on mobile)
 2. Select color type
 3. Point cursor in the picture and select a pixel
-4. Peek will show the colors options available with the selected brand  
+4. Peek will show the colors options available from the selected brand  
 
